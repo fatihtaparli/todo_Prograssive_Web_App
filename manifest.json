@@ -1,0 +1,20 @@
+{
+    "name": "My To Do list",
+    "description": "Organize your tasks",
+   "lang": "en-US", 
+    "short_name": "MyToDo",
+    "icons": [
+       {
+          "src": "logo.png",
+          "sizes": "192x192",
+          "type": "image/png"
+       }
+    ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF"
+ }
+
+
+  
